@@ -1,6 +1,6 @@
 site: Idyllic's Website
 
-baseurl: idyllicperipherals/
+baseurl: /idyllicperipherals
 
 collections:
   pages:
